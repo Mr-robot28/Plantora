@@ -4,7 +4,7 @@
     <div class="max-w-md w-full bg-white rounded-3xl shadow-2xl overflow-hidden">
         <div class="bg-gradient-to-r from-teal-600 to-emerald-600 px-6 py-8 text-center text-white">
             <div class="text-6xl mb-3"><i class="fas fa-seedling"></i></div>
-            <h2 class="text-3xl font-bold">Join Green Nursery</h2>
+            <h2 class="text-3xl font-bold">Join Plantora</h2>
             <p class="text-teal-100 mt-2">Create your account and start your plant journey</p>
         </div>
         

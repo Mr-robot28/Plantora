@@ -3,7 +3,7 @@
 
 <section class="relative bg-gradient-to-r from-teal-600 to-emerald-600 py-20">
     <div class="max-w-7xl mx-auto px-4 text-center text-white">
-        <h1 class="text-5xl md:text-6xl font-bold mb-4 animate-fade-in">About Green Nursery</h1>
+        <h1 class="text-5xl md:text-6xl font-bold mb-4 animate-fade-in">About Plantora</h1>
         <p class="text-xl max-w-2xl mx-auto">Nurturing nature, one plant at a time since 2010</p>
     </div>
 </section>
@@ -14,7 +14,7 @@
             <p class="text-teal-600 font-semibold mb-2">Our Story</p>
             <h2 class="text-4xl font-bold text-gray-800 mb-6">Bringing Greenery to Every Home</h2>
             <p class="text-gray-600 mb-4 leading-relaxed">
-                Founded in 2010, Green Nursery started as a small family-owned nursery with a passion for plants 
+                Founded in 2010, Plantora started as a small family-owned nursery with a passion for plants 
                 and a dream to make gardening accessible to everyone. Today, we've grown into one of India's 
                 most trusted online plant stores, serving over 10,000 happy customers.
             </p>

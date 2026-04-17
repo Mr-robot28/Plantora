@@ -10,7 +10,7 @@
 				<i class="fas fa-leaf"></i>
 			</div>
 			<h2 class="text-3xl font-bold">Welcome Back!</h2>
-			<p class="text-teal-100 mt-2">Sign in to your Green Nursery
+			<p class="text-teal-100 mt-2">Sign in to your Plantora
 				account</p>
 		</div>
 

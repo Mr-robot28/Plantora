@@ -12,7 +12,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Green Nursery - Premium Plants Delivered</title>
+    <title>Plantora - Premium Plants Delivered</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -85,7 +85,7 @@
             <a href="${pageContext.request.contextPath}/jsp/index.jsp" class="flex items-center space-x-3 group">
                 <i class="fas fa-leaf text-3xl text-teal-600 group-hover:scale-110 transition"></i>
                 <div>
-                    <span class="text-xl md:text-2xl font-extrabold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Green Nursery</span>
+                    <span class="text-xl md:text-2xl font-extrabold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">Plantora</span>
                     <p class="text-[10px] text-gray-400 -mt-1">Premium Plant Store</p>
                 </div>
             </a>

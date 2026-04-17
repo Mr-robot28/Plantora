@@ -20,7 +20,7 @@
         <div class="grid md:grid-cols-2 gap-12 items-center">
             <div class="text-white fade-up" style="animation: slideUp 0.6s ease-out">
                 <div class="inline-block bg-white/20 backdrop-blur-sm rounded-full px-4 py-1 text-sm mb-6">
-                    <i class="fas fa-seedling"></i> Welcome to Green Nursery
+                    <i class="fas fa-seedling"></i> Welcome to Plantora
                 </div>
                 <h1 class="text-5xl md:text-6xl lg:text-7xl font-extrabold leading-tight mb-6">
                     Bring Nature<br>Into Your <span class="text-emerald-300">Home</span>
@@ -208,7 +208,7 @@
 <section class="bg-gradient-to-r from-teal-50 to-emerald-50 py-20">
     <div class="max-w-7xl mx-auto px-4">
         <div class="text-center mb-12">
-            <h2 class="text-4xl font-bold text-gray-800 mb-4">Why Choose Green Nursery?</h2>
+            <h2 class="text-4xl font-bold text-gray-800 mb-4">Why Choose Plantora?</h2>
             <div class="w-24 h-1 bg-gradient-to-r from-teal-500 to-emerald-500 mx-auto rounded-full"></div>
         </div>
         <div class="grid md:grid-cols-4 gap-8">

@@ -19,7 +19,7 @@
                 <i class="fas fa-check-circle text-teal-600 text-5xl"></i>
             </div>
             <h1 class="text-3xl font-bold text-white mb-2">Order Confirmed!</h1>
-            <p class="text-teal-100">Thank you for shopping with Green Nursery</p>
+            <p class="text-teal-100">Thank you for shopping with Plantora</p>
         </div>
         
         <div class="p-8">

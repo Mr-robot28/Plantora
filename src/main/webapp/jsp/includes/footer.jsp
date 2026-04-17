@@ -31,7 +31,7 @@
 			<div>
 				<div class="flex items-center space-x-2 mb-4">
 					<i class="fas fa-leaf text-3xl text-teal-400"></i> <span
-						class="text-xl font-bold">Green Nursery</span>
+						class="text-xl font-bold">Plantora</span>
 				</div>
 				<p class="text-gray-300 text-sm leading-relaxed">Bringing nature
 					to your doorstep since 2010. Premium quality plants with expert
@@ -134,7 +134,7 @@
 		<div
 			class="border-t border-gray-700 mt-10 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
 			<p class="text-gray-400 text-sm">
-				&copy; 2024 Green Nursery. All rights reserved. Made with <i
+				&copy; 2024 Plantora. All rights reserved. Made with <i
 					class="fas fa-heart text-red-500"></i> for plant lovers
 			</p>
 			<div class="flex space-x-3 text-2xl text-gray-400">

@@ -16,7 +16,7 @@
         <div class="p-8 space-y-6">
             <div>
                 <h2 class="text-xl font-bold text-gray-800 mb-3">1. Acceptance of Terms</h2>
-                <p class="text-gray-600 leading-relaxed">By accessing and using Green Nursery website, you agree to be bound by these Terms of Service and all applicable laws and regulations.</p>
+                <p class="text-gray-600 leading-relaxed">By accessing and using Plantora website, you agree to be bound by these Terms of Service and all applicable laws and regulations.</p>
             </div>
             
             <div>
@@ -41,7 +41,7 @@
             
             <div>
                 <h2 class="text-xl font-bold text-gray-800 mb-3">5. Limitation of Liability</h2>
-                <p class="text-gray-600 leading-relaxed">Green Nursery shall not be liable for any indirect, incidental, or consequential damages arising from the use of our products or website.</p>
+                <p class="text-gray-600 leading-relaxed">Plantora shall not be liable for any indirect, incidental, or consequential damages arising from the use of our products or website.</p>
             </div>
             
             <div>
